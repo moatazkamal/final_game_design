@@ -208,7 +208,11 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
+<<<<<<< HEAD
   m_fontSize: 61.15
+=======
+  m_fontSize: 70.45
+>>>>>>> 8dcdb75 (Add updated Unity project files)
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -1873,7 +1877,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.71900004}
   m_AnchorMax: {x: 0.2883334, y: 1}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 19.1405, y: -2}
+=======
+  m_AnchoredPosition: {x: 19.14038, y: -2}
+>>>>>>> 8dcdb75 (Add updated Unity project files)
   m_SizeDelta: {x: 38.281, y: 4}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &412193215
@@ -1955,6 +1963,10 @@ GameObject:
   - component: {fileID: 456633883}
   - component: {fileID: 456633880}
   - component: {fileID: 456633881}
+<<<<<<< HEAD
+=======
+  - component: {fileID: 456633884}
+>>>>>>> 8dcdb75 (Add updated Unity project files)
   m_Layer: 0
   m_Name: Player
   m_TagString: Runner
@@ -1995,6 +2007,11 @@ MonoBehaviour:
   runningSpeed: 9
   xSpeed: 250
   limitX: 3.75
+<<<<<<< HEAD
+=======
+  jumpForce: 6
+  isGrounded: 1
+>>>>>>> 8dcdb75 (Add updated Unity project files)
 --- !u!136 &456633880
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -2061,6 +2078,22 @@ MonoBehaviour:
   distance: 0
   target: {fileID: 695405261}
   rank: 0
+<<<<<<< HEAD
+=======
+--- !u!114 &456633884
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 456633877}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d83738795dfd4914a989effd5a2dabaf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  forceAmount: 99999
+>>>>>>> 8dcdb75 (Add updated Unity project files)
 --- !u!1 &477658684
 GameObject:
   m_ObjectHideFlags: 0
