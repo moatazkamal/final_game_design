@@ -42,7 +42,7 @@ Follow these steps to get the game running:
 
 2. **Clone the Repository:** Clone this repository to your local machine:
 
-  - `` bash ~~ git clone https://github.com/chiturca/3DRunner.git ``
+  
   - `` 1. Open the Unity application and select "Open Project." Navigate to the cloned repository folder and open it. ``
   - `` 2. Reach in to the Scenes folder, double click to the "Game" scene then it will open the game ``
   - `` 3. Enjoy, play the game and race to the finish line! ``
@@ -92,9 +92,4 @@ Contributions from the community are welcome and encouraged.
 
 If you have suggestions for improvements, open issues, or create pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
-## License <a name="license"></a>
 
-This project is open source and available under the [MIT License](LICENSE.md). You are free to use, modify, and distribute the game as you see fit.
-
----
-Have fun playing and developing the Unity 3D Runner Game! If you have any questions, feedback, or issues to report, please feel free to contact me. Contact info can be found on my profile https://github.com/chiturca
