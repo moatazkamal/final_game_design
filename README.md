@@ -88,8 +88,6 @@ In the future, we plan to add the following features:
   
 Contributions from the community are welcome and encouraged.
 
-## Contributing <a name="contributing"></a>
 
-If you have suggestions for improvements, open issues, or create pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
 
